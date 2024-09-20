@@ -1,1 +1,10 @@
+# Ignore all files by default
+*
+!*.*  
+!*/
+
+# Ignore object files (commonly generated during compilation)
 *.o
+
+# Ignore the .vscode directory (used for Visual Studio Code settings)
+.vscode/
